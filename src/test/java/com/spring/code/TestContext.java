@@ -13,7 +13,7 @@ public class TestContext {
     @Test
     public void out() {
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext();
-        System.out.println("master");
+        System.out.println("master1111111");
     }
 
 }
